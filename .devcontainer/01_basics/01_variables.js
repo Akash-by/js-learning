@@ -5,4 +5,4 @@ accountCity = "Jaipur"
 
 // accountId = 2 // not allowed
 
-console.log("accountId");
+console.log(accountId);
